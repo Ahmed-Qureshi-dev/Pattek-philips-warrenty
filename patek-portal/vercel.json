@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/owner-profile", "destination": "/owner-profile.html" },
+    { "source": "/privacy-policy", "destination": "/privacy-policy.html" }
+  ]
+}
